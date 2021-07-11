@@ -38,4 +38,3 @@ while (ctr != 400):
     time.sleep(15)
 
 GPIO.cleanup()
-
